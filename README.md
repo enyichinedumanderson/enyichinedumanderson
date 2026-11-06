@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=Enyi%20Chinedum&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Platform%20Engineering%20%7C%20SRE&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=Enyi%20Chinedum&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20DevOps%20%2F%20Cloud%20Engineer%20%7C%20Platform%20Engineering%20%7C%20Technical%20Writer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Platform+Engineer+%7C+Multi-Cloud+Architect;Kubernetes+%7C+Terraform+%7C+CI%2FCD+Automation;Building+Scalable+Cloud+Platforms+%26+Developer+Tools" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+Full-Stack+Builder;DevOps+%26+Cloud+Engineering+Enthusiast;Technical+Writer+%7C+Sharing+What+I+Learn;Kubernetes+%7C+Terraform+%7C+CI%2FCD+Automation;Building+LoomWing+%7C+Fashion-Tech+Platform"/>
 
 </div>
 
