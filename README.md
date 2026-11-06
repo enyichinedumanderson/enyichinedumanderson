@@ -257,19 +257,15 @@ A practical account of learning SQL fundamentals, writing database queries, mani
   </a>
 </p>
 
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=enyichinedumanderson&theme=tokyonight" alt="GitHub Statistics"/>
-</p>
-
 ---
 
 <br>
 
 <p align="center">
-  <img src="./assets/coding-meme.gif" alt="Coding meme" width="420" />
+  <img src="./Assets/coding-meme.gif" alt="Coding meme" width="420" />
 </p>
 
 <p align="center">
-  <i>bro fixed one merge conflict and now he thinks he’s Ryan Gosling</i>
+  <i>bro fixed one merge conflict and now he thinks he’s Ryan Gosling 😭</i>
 </p>
 
